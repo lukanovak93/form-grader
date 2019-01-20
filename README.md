@@ -3,14 +3,13 @@
 This is a package for reading and auto-grading multiple answer forms.
 
 ### Features
-#### Creating tests using [Google Script API](https://developers.google.com/apps-script/reference/)
+#### 1. Creating tests
+Creating tests using [Google Script API](https://developers.google.com/apps-script/reference/) &rarr; decide what to use: Docs or Forms
 
 ### TODO
-- [ ] Add export to csv
-- [ ] Add Excel support
-- [ ] Add parameter to specify number of answers (possibly another excel file)
-- [ ] Create NN that recognizes rows of squares and squares themselves in image
-- [ ] Handle case when no circle is scratched &rarr; add minimum amount of black pixels depending on the image resolution
+Trello: 
+ - [Prototype board](https://trello.com/b/EQwEYpGS/prototype) 
+ - [Full board](https://trello.com/b/Yib9xFoY/develop)
 
 ### Dependencies
 #### Tesseract
